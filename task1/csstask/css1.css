@@ -1,0 +1,129 @@
+body {
+    margin: 0px;
+}
+#bigscreen {
+    background-color: rgb(157, 109 ,159 );
+    overflow: hidden;
+  
+}
+#reco {
+    
+    background-image: url("../imgs/recoimg.jpg");
+    background-repeat: repeat;
+    background-position: 50% 50% ;
+    padding:10%;
+    margin:0%
+}
+h1 {
+    display: block;
+    font-size: 400%;
+    text-align: center;
+    margin: 1% -14%;
+    font-weight: bold;
+}
+#desc {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+    
+
+}
+.movie3 h2 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: seagreen;
+}
+.movie2 h2 {
+    border-radius: 20%;
+    text-align: center;
+    background-color:rgb(211, 194, 121);
+}
+.movie1 h2 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(188, 124, 240);
+}
+h3
+{
+    font-style: italic;
+    
+}
+img {
+    width: 80%;
+}
+.movie1
+{
+    float:left;
+    background-color:rgb(228, 199, 252);
+    width: 240px;
+    height:420px;
+    border: 15px solid rgb(125, 53, 143);
+    padding: 50px;
+    margin : 20px 20px 20px 60px;
+    display:block;
+    overflow: scroll;
+}
+.english{
+    background-color: rgb(196, 164, 221);
+    display: block;
+    padding: 10px;
+    border: 10px;
+    
+}
+.movie2
+{
+    float:left;
+    background-color: rgb(248, 232, 161);
+    width: 240px;
+    height: 420px;
+    border: 15px solid rgb(230, 188, 111);
+    padding: 50px;
+    margin : 20px ;
+    overflow: scroll;
+   
+}
+.spanish {
+    background-color: rgb(255, 250, 203);
+    display: block;
+    padding: 10px;
+    border: 10px;
+}
+.korean {
+    background-color: rgb(217, 253, 203);
+    display: block;
+    padding: 10px;
+    border :10px;
+    
+}
+.movie3
+{
+    float:left;
+    background-color: rgb(173, 230, 182);
+    width: 240px;
+    height: 420px;
+    border: 15px solid rgb(3, 177, 133);
+    padding: 50px;
+    margin : 20px 60px 20px 20px;
+    overflow: scroll;
+}
+#footer {
+    color :maroon;
+    font-size: 25px;
+    text-align: bottom;
+    text-align: center;
+}
+a 
+{
+    font-size: 25px;
+    color :rgb(65, 37, 5); 
+}
+div #footer .footp {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+div #footer img {
+    width: 1.5%;
+}

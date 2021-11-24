@@ -1,0 +1,135 @@
+body {
+    background-color: rgb(136, 73, 179);
+    margin:0px;
+}
+.bigscreen {
+    background-color:burlywood;
+
+    overflow: hidden;
+}
+#reco {
+    background-image: url("../imgsanime/background.jpg");
+    background-position: 50% 50% ;
+    padding:0%;
+    margin:0%
+}
+.desc {
+    font-size: 130%;
+    font-style: italic;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    padding: 2%
+}
+h1 {
+    display: block;
+    font-size: 400%;
+    text-align: center;
+    margin: 1% -14%;
+    font-weight: bold;
+}
+.demon {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px 0px 0px ;
+    float:right;   
+}
+.zankyou {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px 0px 0px;
+    float:right;   
+}
+.hunter {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px ;
+    float:left;  
+}
+.attack {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px ;
+    float:left;   
+}
+.banana {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px 2px 3px -4px;
+    float:right;   
+}
+.naruto {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px ;
+    float:right;   
+}
+.piece {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px 2px 3px;
+    float:right;   
+    
+}
+.promised {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px ;
+    float:right;   
+    
+}
+.tokyo {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px ;
+    float:right;   
+}
+.death {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px 0px 3px ;
+    float:left;   
+}
+.nanatsu {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px ;
+    float:left;   
+}
+.another {
+    width: 30%;
+    padding: auto;
+    border:10px solid black;
+    margin:2px 3px ;
+    float:right;   
+}
+
+.footer {
+    width:60%;
+    color :black;
+    font-size: 25px;
+    text-align: bottom;
+    text-align: center;
+    float:left;
+    }
+.footer a {
+    color:black;
+}
+.footer img{
+    width: 3.5%;
+}
+.footp {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,151 @@
+body {
+    background-color: rgb(219, 200, 138);
+    margin:0px;
+}
+.bigscreen {
+    background-color: rgb(219, 200, 138);
+    overflow: hidden;
+}
+#reco {
+    background-image: url("../imgsmusic/image5.jpg");
+    background-position: 50% 50% ;
+    padding:0%;
+    margin:0%;
+}
+.desc {
+    font-size: 130%;
+    font-style: italic;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    padding: 2%
+}
+h1 {
+    display: block;
+    font-size: 400%;
+    text-align: center;
+    margin: 1% -14%;
+    font-weight: bold;
+}
+.music1 {
+    background-color: rgb(255, 254, 191);
+    width:23%;
+    margin:5% 2%;
+    padding:31px ;
+    border: 15px solid rgb(255, 245, 151);
+    display:block;
+    float:right;
+}
+.music1 h3 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(250, 237, 119);
+}
+.music1 div {
+    background-color:rgb(231, 233, 124) ;
+}
+.music2 {
+    background-color: rgb(240, 235, 168);
+    width:20%;
+    margin:5% 2%;
+    padding:39px ;
+    border: 15px solid rgb(143, 127, 53);
+    display:block;
+    float:right;
+}
+.music2 h3 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(209, 194, 106);
+}
+.music2 div {
+    background-color:rgb(212, 200, 131) ;
+}
+.music3 {
+    background-color: rgb(201, 233, 176);
+    width:23%;
+    margin:5% 2%;
+    padding:31px ;
+    border: 15px solid rgb(55, 145, 89);
+    display:block;
+    float:right;
+}
+.music3 h3 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(103, 179, 101);
+}
+.music3 div {
+    background-color:rgb(136, 190, 134) ;
+}
+.music4 {
+    background-color: rgb(240, 235, 168);
+    width:20%;
+    margin: 3% 2% 5% 3%;
+    padding: 28px 45px 42px 32px; 
+    border: 15px solid rgb(143, 127, 53);
+    display:block;
+    float:left;
+}
+.music4 h3 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(209, 194, 106);
+    
+}
+.music4 div {
+    background-color:rgb(212, 200, 131) ;
+}
+.music5 {
+    background-color:rgb(255, 254, 191);
+    width:20%;
+    margin: 2% 2% 5% 4%;
+    padding: 28px 47px 30px 34px;
+    border: 15px solid rgb(255, 245, 151);
+    display:block;
+    float:left;
+}
+.music6 {
+    background-color: rgb(201, 233, 176);
+    width:20%;
+    margin: 2% 2% 5% 2%;
+    padding: 21px 43px 41px 34px;
+    border: 15px solid rgb(55, 145, 89);
+    display:block;
+    float:left;
+}
+.music6 h3 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(103, 179, 101);
+    
+}
+.music6 div {
+    background-color:rgb(136, 190, 134) ;
+}
+.music5 h3 {
+    border-radius: 20%;
+    text-align: center;
+    background-color: rgb(250, 237, 119);
+}
+.music5 div {
+    background-color:rgb(231, 233, 124) ;
+}
+.footer {
+    
+    color :black;
+    font-size: 25px;
+    text-align: bottom;
+    float:right;
+    text-align: center;
+    }
+.footer a {
+    color:black;
+}
+.footer img{
+    width: 3.5%;
+}
+.footp {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
