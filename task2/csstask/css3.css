@@ -4,7 +4,7 @@ body {
 }
 .bigscreen {
     background-color:burlywood;
-
+    display: block;
     overflow: hidden;
 }
 #reco {
@@ -16,7 +16,7 @@ body {
 .desc {
     font-size: 130%;
     font-style: italic;
-    text-align: center;
+    text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 2px;
     padding: 2%
@@ -28,106 +28,44 @@ h1 {
     margin: 1% -14%;
     font-weight: bold;
 }
-.demon {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px 0px 0px ;
-    float:right;   
+.container {
+    padding:3px;
+    margin:2px;
+    display: flex;
+    flex-direction: row;
+    flex-flow:wrap;
 }
-.zankyou {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px 0px 0px;
-    float:right;   
+.boxanime {
+    width:30%;
+    padding:6px;
+    margin:0px;
+    border:15px solid black;
 }
-.hunter {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px ;
-    float:left;  
+h3 {
+    text-align: center;
+    background-color: rgb(233, 226, 122);
+    width:50%;
 }
-.attack {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px ;
-    float:left;   
+.descanime {
+    letter-spacing: 2px;
+    font-family:'Times New Roman', Times, serif;
 }
-.banana {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px 2px 3px -4px;
-    float:right;   
+.imgs {
+    width :30%;
 }
-.naruto {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px ;
-    float:right;   
-}
-.piece {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px 2px 3px;
-    float:right;   
-    
-}
-.promised {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px ;
-    float:right;   
-    
-}
-.tokyo {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px ;
-    float:right;   
-}
-.death {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px 0px 3px ;
-    float:left;   
-}
-.nanatsu {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px ;
-    float:left;   
-}
-.another {
-    width: 30%;
-    padding: auto;
-    border:10px solid black;
-    margin:2px 3px ;
-    float:right;   
-}
-
 .footer {
-    width:60%;
+    width:100%;
     color :black;
     font-size: 25px;
     text-align: bottom;
     text-align: center;
-    float:left;
+    float:right;
     }
 .footer a {
     color:black;
 }
 .footer img{
-    width: 3.5%;
+    width: 2.5%;
 }
 .footp {
     font-weight: bold;
